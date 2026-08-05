@@ -105,7 +105,7 @@ Real-time productivity suite with dynamic state management for personal workflow
 <td width="33%" valign="top">
 
 **🥔 PotatoGuard**
-Serverless potato-disease detector : MobileNetV2 CNN at ~98% validation accuracy, deployed on AWS SageMaker.
+Serverless potato-disease detector MobileNetV2 CNN at ~98% validation accuracy, deployed on AWS SageMaker.
 
 `AWS` `CNN` `Computer Vision`
 
@@ -201,9 +201,21 @@ NLLB-200 + QLoRA-tuned Qwen2.5 translation pipeline, deployed as a live Gradio d
 <a href="https://www.brightermonday.co.ug/certificate/56ae84d2-b38b-4461-b528-cb69246e9833"><img src="https://img.shields.io/badge/Verify-FF6600?style=flat-square"/></a>
 </td>
 <td align="center" width="33%">
-<sub>☁️ AWS Badges — Compute & Storage<br/><br/>
-🧑‍💻 Google Developers Community MUST<br/>hackathons & Dev-Fest Mbarara</sub>
+<img src="assets/certificates/aws-compute-badge.png" width="160"/>
+<br/><b>Getting Started with Compute</b><br/>
+<sub>AWS Educate · Trained</sub>
 </td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="assets/certificates/aws-storage-badge.png" width="160"/>
+<br/><b>Getting Started with Storage</b><br/>
+<sub>AWS Educate · Trained</sub>
+</td>
+<td align="center" width="33%">
+<sub>🧑‍💻 <b>Google Developers Community MUST</b><br/>hackathons & Dev-Fest Mbarara</sub>
+</td>
+<td width="33%"></td>
 </tr>
 </table>
 </div>
