@@ -19,7 +19,7 @@
 
 I'm a Computer Science undergraduate at **Mbarara University of Science and Technology (MUST)** and an **AI/NLP Industrial Trainee at [Sunbird AI](https://sunbird.ai)**, a non-profit research lab building language technology for African and underserved languages.
 
-I care about bridging the digital divide in East Africa — my work sits at the intersection of **NLP, LLM fine-tuning, and speech recognition**, applied to Ugandan and African local languages. I combine "Mind and Hand" 🛠️ — architecting systems across Python, Java, and PHP — to turn research into tools people actually use.
+I care about bridging the digital divide in East Africa my work sits at the intersection of **NLP, LLM fine-tuning, and speech recognition**, applied to Ugandan and African local languages. I combine "Mind and Hand" 🛠️ architecting systems across Python, Java, and PHP to turn research into tools people actually use.
 
 ```python
 class Joseph:
@@ -46,7 +46,7 @@ class Joseph:
 <td width="50%" valign="top">
 
 ### 🌻 Sunflower AI Evaluation Pipeline
-An **LLM-as-judge, release-gating evaluation framework** for Sunbird AI's models — designed end-to-end from architecture and scoring logic to a formal Project Plan and IEEE‑830 SRS, with diagrams generated via Graphviz & Matplotlib.
+An **LLM-as-judge, release-gating evaluation framework** for Sunbird AI's models designed end-to-end from architecture and scoring logic to a formal Project Plan and IEEE‑830 SRS, with diagrams generated via Graphviz & Matplotlib.
 
 `LLM-as-a-Judge` `Evaluation` `MLOps`
 
@@ -54,7 +54,7 @@ An **LLM-as-judge, release-gating evaluation framework** for Sunbird AI's models
 <td width="50%" valign="top">
 
 ### 🎙️ Google WAXAL ASR Challenge (Zindi)
-Fine-tuning **Whisper-small** jointly across Lingala, Shona & Luganda for multilingual African speech recognition — including a custom `<|lug|>` token and a lazy-collator architecture built to survive free-tier Colab.
+Fine-tuning **Whisper-small** jointly across Lingala, Shona & Luganda for multilingual African speech recognition including a custom `<|lug|>` token and a lazy-collator architecture built to survive free-tier Colab.
 
 `Speech Recognition` `Whisper` `Multilingual`
 
@@ -105,7 +105,7 @@ Real-time productivity suite with dynamic state management for personal workflow
 <td width="33%" valign="top">
 
 **🥔 PotatoGuard**
-Serverless potato-disease detector — MobileNetV2 CNN at ~98% validation accuracy, deployed on AWS SageMaker.
+Serverless potato-disease detector MobileNetV2 CNN at ~98% validation accuracy, deployed on AWS SageMaker.
 
 `AWS` `CNN` `Computer Vision`
 
