@@ -156,7 +156,6 @@ NLLB-200 + QLoRA-tuned Qwen2.5 translation pipeline, deployed as a live Gradio d
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsemuliJoseph&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=SsemuliJoseph&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
 
 </div>
 
