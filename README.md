@@ -152,18 +152,13 @@ NLLB-200 + QLoRA-tuned Qwen2.5 translation pipeline, deployed as a live Gradio d
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SsemuliJoseph&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://vercel.app" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SsemuliJoseph&theme=tokyonight&hide_border=true" width="49%" />
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsemuliJoseph&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsemuliJoseph&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://vercel.app" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=SsemuliJoseph&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
 
 </div>
-
 
 <br/>
 
