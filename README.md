@@ -166,13 +166,49 @@ NLLB-200 + QLoRA-tuned Qwen2.5 translation pipeline, deployed as a live Gradio d
 
 <br/>
 
-## 🏅 Certifications & Achievements
+## 📜 Certificates
 
-- 🎓 UNESCO UNITWIN Design Sprint Camp, Uganda (2025)
-- 📊 Introduction to Data Science with Python — University of Michigan (Coursera)
-- 🐍 Python Training — Ghent University
-- ☁️ AWS Badges — Compute & Storage
-- 🧑‍💻 Google Developers Community MUST — hackathons & Dev-Fest Mbarara
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="assets/certificates/unesco-unitwin.jpg"><img src="assets/certificates/unesco-unitwin.jpg" width="280"/></a>
+<br/><b>UNESCO UNITWIN Design Sprint Camp</b><br/>
+<sub>Handong Global University × MUST · 2025</sub>
+</td>
+<td align="center" width="33%">
+<a href="assets/certificates/coursera-datascience.jpg"><img src="assets/certificates/coursera-datascience.jpg" width="280"/></a>
+<br/><b>Introduction to Data Science in Python</b><br/>
+<sub>University of Michigan · Coursera · 2026</sub><br/>
+<a href="https://coursera.org/verify/EHQ8747QQPJM"><img src="https://img.shields.io/badge/Verify-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a>
+</td>
+<td align="center" width="33%">
+<a href="assets/certificates/ghent-python-training.jpg"><img src="assets/certificates/ghent-python-training.jpg" width="280"/></a>
+<br/><b>Python Programming Training</b><br/>
+<sub>Ghent University × VUB × UCoBS · 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="assets/certificates/huggingface-llm-course.jpg"><img src="assets/certificates/huggingface-llm-course.jpg" width="280"/></a>
+<br/><b>Fundamentals of LLMs</b><br/>
+<sub>Hugging Face LLM Course · 2026</sub>
+</td>
+<td align="center" width="33%">
+<a href="assets/certificates/brightermonday-softskills.jpg"><img src="assets/certificates/brightermonday-softskills.jpg" width="280"/></a>
+<br/><b>Soft Skills Certificate</b><br/>
+<sub>BrighterMonday Uganda · 2026</sub><br/>
+<a href="https://www.brightermonday.co.ug/certificate/56ae84d2-b38b-4461-b528-cb69246e9833"><img src="https://img.shields.io/badge/Verify-FF6600?style=flat-square"/></a>
+</td>
+<td align="center" width="33%">
+<sub>☁️ AWS Badges — Compute & Storage<br/><br/>
+🧑‍💻 Google Developers Community MUST<br/>hackathons & Dev-Fest Mbarara</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<sub>Click any certificate to view it full-size.</sub>
 
 <br/>
 
