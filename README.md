@@ -229,6 +229,10 @@ NLLB-200 + QLoRA-tuned Qwen2.5 translation pipeline, deployed as a live Gradio d
 
 *"Solving local challenges with global-standard technology."* ⚡
 
-![Snake animation](https://raw.githubusercontent.com/SsemuliJoseph/SsemuliJoseph/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SsemuliJoseph/SsemuliJoseph/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SsemuliJoseph/SsemuliJoseph/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SsemuliJoseph/SsemuliJoseph/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
