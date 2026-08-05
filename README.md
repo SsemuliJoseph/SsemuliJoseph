@@ -126,10 +126,6 @@ NLLB-200 + QLoRA-tuned Qwen2.5 translation pipeline, deployed as a live Gradio d
 </p>
 
 <!-- 🔧 TIP: these are GitHub repo "pin" cards — check that each repo/owner name below exactly matches your real repos, then swap in your own where the owner isn't you. -->
-<p align="center">
-<a href="https://github.com/MrXeskevin/Sunflower-Translator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrXeskevin&repo=Sunflower-Translator&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/MrXeskevin/Citizen-Voice-Sentiment-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrXeskevin&repo=Citizen-Voice-Sentiment-Tracker&theme=tokyonight&hide_border=true" /></a>
-</p>
 
 <br/>
 
